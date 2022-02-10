@@ -1,0 +1,19 @@
+img {
+    width: 500px;
+    height: auto;
+}
+
+.paragraph {
+    font-size: 24px;
+    color: blue
+}
+
+ul {
+    background-color: yellowgreen;
+    font-weight: bold;
+}
+
+ol {
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
